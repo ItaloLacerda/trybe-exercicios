@@ -1,3 +1,0 @@
-Autodiciplina
-Bash
-Bootstrap
