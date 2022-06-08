@@ -1,0 +1,31 @@
+  body {
+    font-size: 16px;
+    font-style: oblique;
+  }
+  h1 {
+      size: 65px;
+      color: orange;
+      font-family: sans-serif;
+
+  }
+  .select-backgroud {
+      background-color: antiquewhite ;
+      font-style: oblique;
+      line-height: 30px;
+      
+  }
+  #yellow{
+    color: yellow;
+  }
+
+  #red{
+    color: red;
+  }
+  #brow{
+    color: brown;
+  }
+ 
+  p {
+    font-weight: 600;
+    font-size: 3em;
+  }
