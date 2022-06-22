@@ -1,0 +1,66 @@
+ol {
+    background-color: yellow;
+}
+
+ol li:nth-child(2),
+ol li:nth-child(4) {
+    color: green;
+}
+
+h1,
+h3 {
+    color: red;
+}
+
+h1 {
+    font-size: 40px;
+    border: 1px solid black;
+
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: 600;
+}
+
+ul:nth-child(6) li:nth-child(1),
+ul:nth-child(6) li:nth-child(2),
+ul:nth-child(6) li:nth-child(3) {
+    color: blue;
+}
+
+ul:nth-child(6) li:nth-child(2),
+ul:nth-child(6) li:nth-child(3) {
+    background-color: pink;
+}
+
+ul:nth-child(8) li:nth-child(1) :hover,
+ul:nth-child(8) li:nth-child(2) :hover,
+ul:nth-child(8) li:nth-child(3) :hover,
+ul:nth-child(8) li:nth-child(4) :hover,
+ul:nth-child(8) li:nth-child(5) :hover {
+    font-weight: 600;
+}
+
+ul:nth-child(8) li:nth-child(1) :hover {
+    color: orange;
+}
+
+ul:nth-child(8) li:nth-child(2) :hover {
+    color: green;
+}
+
+ul:nth-child(8) li:nth-child(3) :hover {
+    color: black;
+}
+
+ul:nth-child(8) li:nth-child(4) :hover {
+    color: yellow;
+}
+
+ul:nth-child(8) li:nth-child(5) :hover {
+    color: green;
+}
